@@ -1,0 +1,21 @@
+{
+  "name": "marshallsbest",
+  "description": "A basic learning platform where I'm planning to implement googles Material Design",
+  "main": "index.js",
+  "authors": [
+    "Luke Marshall"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Marshallsbest/_marshallsbest",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
